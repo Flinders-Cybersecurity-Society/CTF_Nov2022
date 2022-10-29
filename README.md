@@ -1,6 +1,8 @@
-# Flinders University Cybersecurity Society
+<p align="center">
+  <img src="/img/CySocLogo.png" alt="CySoc Logo"/>
+</p>
 
-# CTF Workshop November 2022
+<h1 align="center"> CTF Workshop November 2022 </h1>
 
 Welcome to the first Flinders University Cybersecurity Society CTF workshop. The files and indexed in this repository will be the main content of this month's workshop.
 
