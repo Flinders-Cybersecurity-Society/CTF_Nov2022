@@ -33,16 +33,6 @@
 
 <br><br>
 
-## Steganography
-
-### 1. []()
-
-### 2. []()
-
-### 3. []()
-
-<br><br>
-
 ## Forensics
 
 ### 1. [information](https://play.picoctf.org/practice/challenge/186?category=4&page=1)
@@ -55,8 +45,8 @@
 
 ## Exploitation
 
-### 1. []()
+### 1. [GET aHEAD](https://play.picoctf.org/practice/challenge/132?category=1&page=1)
 
-### 2. []()
+### 2. [Cookies](https://play.picoctf.org/practice/challenge/173?category=1&page=1)
 
-### 3. []()
+### 3. [Insp3ct0r](https://play.picoctf.org/practice/challenge/18?category=1&page=1)
